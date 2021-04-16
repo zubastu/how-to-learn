@@ -1,0 +1,12 @@
+.link{
+    text-decoration: none;
+    list-style: none;
+    opacity: 1;
+    transition-property: opacity;
+    transition-duration: .5s;
+    transition-timing-function: linear;
+    transition-delay: .1s;
+  }
+  .link:hover{
+    opacity: .5;
+  }

@@ -1,0 +1,9 @@
+.two-columns__main-text {
+    flex-direction: column;
+    align-items: stretch;
+    justify-content: space-between;
+    width: 80%;
+    min-width: 784px;
+    font-weight: normal;
+    margin: 0;
+}
